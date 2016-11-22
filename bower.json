@@ -2,7 +2,7 @@
     "name": "adapt-theme-se",
     "repository": "git@github.com:bcave/adapt-theme-se.git",
     "framework": "^2.0.0",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "homepage": "https://github.com/bcave/adapt-theme-se/",
     "issues": "https://github.com/bcave/adapt-theme-se/issues",
     "displayName": "Sports England",
