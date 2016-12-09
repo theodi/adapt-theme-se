@@ -1,4 +1,4 @@
-var theme="SportEngland"
+var theme="SportEngland";
 define(function(require) {
 	
 	var Adapt = require('coreJS/adapt');
