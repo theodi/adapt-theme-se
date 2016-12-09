@@ -1,10 +1,10 @@
 {
     "name": "adapt-theme-se",
-    "repository": "git@github.com:bcave/adapt-theme-se.git",
+    "repository": "git@github.com:theodi/adapt-theme-se.git",
     "framework": "^2.0.0",
     "version": "0.3.1",
-    "homepage": "https://github.com/bcave/adapt-theme-se/",
-    "issues": "https://github.com/bcave/adapt-theme-se/issues",
+    "homepage": "https://github.com/theodi/adapt-theme-se/",
+    "issues": "https://github.com/theodi/adapt-theme-se/issues",
     "displayName": "Sports England",
     "theme": "Sports England",
     "description": "A custom theme for Sports England modules",
