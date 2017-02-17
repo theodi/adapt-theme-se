@@ -154,6 +154,9 @@ function callTrigger(type) {
 	if (type == "aboutPage:showAboutPage") {
 		Adapt.trigger('aboutPage:showAboutPage');
 	}
+	if (type == "licencePage:showLicencePage") {
+		Adapt.trigger('licencePage:showLicencePage');
+	}
 	if (type == "credits:showCredits") {
 		Adapt.trigger('credits:showCredits');
 	}
