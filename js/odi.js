@@ -1,4 +1,4 @@
-var theme="SportEngland";
+var theme="OpenActive";
 define(function(require) {
 	
 	var Adapt = require('coreJS/adapt');
@@ -64,8 +64,8 @@ define(function(require) {
 		console.log("In show message");
 		
 		var alertObject = {
-            title: "Save your progress, earn rewards...",
-            body: "<p>Please enter your <b>email</b> address in the box below. You will receive an email linking to your unique profile so you can save your progress, earn rewards and resume your learning on any device.</p><br/><div align='center'><input type='email' id='email' class='email-input' placeholder='Email address' required></input><br/><br/><input type='submit' id='email_submit' value='OK' style='padding: 10px;' class='notify-popup-done course_link' role='button' aria-label='submit email' onClick='getEmail();'></input></div>"
+            title: "Save your progress, resume anytime...",
+            body: "<p>Please enter your <b>email</b> address in the box below. You will receive an email linking to your unique profile so you can save your progress and resume your learning on any device.</p><br/><div align='center'><input type='email' id='email' class='email-input' placeholder='Email address' required></input><br/><br/><input type='submit' id='email_submit' value='OK' style='padding: 10px;' class='notify-popup-done course_link' role='button' aria-label='submit email' onClick='getEmail();'></input></div>"
         };
         
         Adapt.once("notify:closed", function() {
